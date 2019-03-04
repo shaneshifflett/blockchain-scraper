@@ -1,0 +1,6 @@
+requests
+pandas
+scrapy
+pymongo
+beautifulsoup4
+
